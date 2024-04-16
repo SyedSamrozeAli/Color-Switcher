@@ -1,6 +1,6 @@
 # Color-Switcher
 
-![image](https://github.com/SyedSamrozeAli/Color-Switcher/assets/119349274/0c50fe53-41f1-4682-93dc-00175aca06a6)
+![image](https://github.com/SyedSamrozeAli/Color-Switcher/assets/119349274/d27182ae-0b7f-45d4-93e6-8e3df5ffba0e)
 
 ![image](https://github.com/SyedSamrozeAli/Color-Switcher/assets/119349274/4b11a7ed-0d74-4f34-8d27-847bcfc2994e)
 
