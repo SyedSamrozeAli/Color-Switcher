@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project-01</title>
+    <style>
+      .big-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 160px;
+      }
+      h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+      }
+
+      h2 {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+      }
+      .container {
+        display: flex;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+        /* border: 2px solid black; */
+        gap: 20px;
+        flex-wrap: wrap;
+      }
+
+      .c {
+        border: 1px solid black;
+        height: 15vh;
+        width: 15vh;
+        border-radius: 5px;
+      }
+      #c1 {
+        background-color: rgb(0, 255, 234);
+      }
+      #c2 {
+        background-color: blueviolet;
+      }
+      #c3 {
+        background-color: rgb(255, 0, 119);
+      }
+      #c4 {
+        background-color: chartreuse;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="big-container">
+      <h1>COLOUR SWITCHER</h1>
+      <div class="container">
+        <div class="c" id="c1"></div>
+        <div class="c" id="c2"></div>
+        <div class="c" id="c3"></div>
+        <div class="c" id="c4"></div>
+      </div>
+      <h2>Click on any of the box to change the background color</h2>
+    </div>
+  </body>
+
+  <script src="script.js" charset="UTF-8"></script>
+</html>
